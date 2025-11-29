@@ -1,2 +1,2 @@
 # L.dotfiles
-Dotfiles for my Linux machine(s)
+Dotfiles for my **Linux** machine(s)
