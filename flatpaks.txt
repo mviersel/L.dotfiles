@@ -1,0 +1,2 @@
+com.visualstudio.code
+app.zen_browser.zen
