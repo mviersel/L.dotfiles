@@ -2,7 +2,7 @@
 
 Op een nieuwe machine:
 ```
-git clone git@github.com:jouwnaam/dotfiles.git ~/.dotfiles
+git clone git@github.com:mviersel/linux-dotfiles.git ~/.dotfiles
 cd ~/.dotfiles
 ./install.sh
 ```
